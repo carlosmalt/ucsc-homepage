@@ -19,7 +19,7 @@ active: true
 projects: [cross]
 ---
 
-Today I was notified by the Chancellor that I will be appointed as the Sage Weil Presidential Chair for Open Source Software. 
+Today I was notified by the Chancellor that I will be appointed as the Sage Weil Presidential Chair for Open Source Software. This is an incredible honor and I thank those who nominated and selected me. And I thank Sage Weil. 
 
 The Sage Weil Presidential Chair for Open Source Software was endowed with a $500,000 donation by [Sage Weil](https://www.linkedin.com/in/sageweil/) who founded the [Ceph project](https://ceph.io) as part of his Ph.D. project at UC Santa Cruz, plus a $500,000 match by the President of the University of California. The Chair was first awarded to Sage's advisor [Scott Brandt](https://www.linkedin.com/in/scott-brandt-074177/) who relinquished it last year. 
 
@@ -34,4 +34,4 @@ Here is what I wrote back in January in my statement in response to my nominatio
 > Alfred P. Sloan Foundation now issued a general call for proposals of university OSPOs and we are working with other UC campuses on responses with the intent to build a network of OSPOs across the UC system. We are also working with UC Santa Cruz Baskin Engineering faculty to establish a research center similar to CROSS but with a focus on open source hardware. We are hiring to expand the OSPO team, and we have a number of new programs addressing open source sponsorships of UC research, staffing software engineering support for open source ecosystems, and mapping research efforts to relevant open source communities and vice versa.
 If I were to be selected for the Sage Weil Presidential Chair for Open Source Software, I would use the scholarly allowance to help establish the OSPO UC Santa Cruz and its programs and to help with the development of research centers like CROSS.
 
-This is an incredible honor and I thank those who nominated and selected me. The scholarly allowance will be put to good use!
+The scholarly allowance will be put to good use!
