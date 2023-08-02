@@ -5,6 +5,7 @@ tags:
 - programmable
 - eusocial
 - skyhook
+- smartnics
 date: "2022-05-09T00:00:00Z"
 last_update: 2023-07-05
 
