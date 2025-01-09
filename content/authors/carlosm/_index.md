@@ -38,11 +38,11 @@ bio: My research interests include programmable storage systems, big data storag
 #    year: 1999
 
 administration:
-- "[Stephanie Lieggi](https://www.linkedin.com/in/stephanie-lieggi-8542624/)"
+# - "[Stephanie Lieggi](https://www.linkedin.com/in/stephanie-lieggi-8542624/)"
 # - "[Lavinia Preston](https://www.linkedin.com/in/lavinia-preston-60806b127/)"
 
 researchers:
-- "[Oskar Elek](https://elek.pub)"
+# - "[Oskar Elek](https://elek.pub)"
 # - "[Kate Compton](https://www.galaxykate.com/)"
 # - "[Ivo Jimenez](http://www.linkedin.com/in/ivotron)"
 
