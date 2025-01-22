@@ -35,7 +35,7 @@ social:
   link: mailto:smirvaki@ucsc.edu
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/esmaeil-m-12a71879/
+  link: https://www.linkedin.com/in/esmaeilmirvakili/
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
