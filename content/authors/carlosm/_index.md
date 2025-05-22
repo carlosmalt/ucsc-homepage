@@ -49,7 +49,7 @@ researchers:
 currentphds:
 - "[Jayjeet Chakraborty](https://www.linkedin.com/in/jayjeet-chakraborty-077579162/) (current advisor: [Heiner Litz](https://www.linkedin.com/in/heiner-litz-3a332713/))"
 - "[Esmaeil Mirvakili](https://www.linkedin.com/in/esmaeilmirvakili/) (current advisor: [Chen Qian](https://www.linkedin.com/in/chen-qian-7b59b521/))"
-- "[Farid Zakaria](https://www.linkedin.com/in/fmzakari/) (current advisor: [Andrew Quinn](https://arquinn.github.io/))"
+- "[Farid Zakaria](https://www.linkedin.com/in/fmzakari/) (current advisor: [Andi Quinn](https://arquinn.github.io/))"
 
 # currentmss:
 # - "[Saloni Rane](https://www.linkedin.com/in/saloni-rane/)"
