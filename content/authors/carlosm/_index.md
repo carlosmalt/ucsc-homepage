@@ -48,8 +48,7 @@ researchers:
 
 currentphds:
 - "[Jayjeet Chakraborty](https://www.linkedin.com/in/jayjeet-chakraborty-077579162/) (current advisor: [Heiner Litz](https://www.linkedin.com/in/heiner-litz-3a332713/))"
-- "[Esmaeil Mirvakili](https://www.linkedin.com/in/esmaeilmirvakili/) (current advisor: [Chen Qian](https://www.linkedin.com/in/chen-qian-7b59b521/))"
-- "[Farid Zakaria](https://www.linkedin.com/in/fmzakari/) (current advisor: [Andi Quinn](https://arquinn.github.io/))"
+- "[Esmaeil Mirvakili](https://www.linkedin.com/in/esmaeilmirvakili/) (current advisor: [Chen Qian](https://www.linkedin.com/in/chen-qian-7b59b521/))"  
 
 # currentmss:
 # - "[Saloni Rane](https://www.linkedin.com/in/saloni-rane/)"
@@ -76,6 +75,8 @@ graduatedphds:
     year: "2014 ([thesis](http://escholarship.org/uc/item/4wj9r8np))"
   - course: "[Noah M. Watkins](http://www.linkedin.com/in/noahwatkins)"
     year: "2018 ([thesis](https://escholarship.org/uc/item/72n6c5kq), [slides](https://docs.google.com/presentation/d/1wlhs59LS1bEzynKK_yaE_NSD2jgf9eeH/edit?usp=sharing&ouid=105297454540541468964&rtpof=true&sd=true))"
+  - course: "[Farid Zakaria](https://www.linkedin.com/in/fmzakari/) (advisor: [Andi Quinn](https://arquinn.github.io/))"
+    year: "2025 ([thesis](https://escholarship.org/uc/item/5cd970wn))"
 
 graduatedmss:
   courses:
