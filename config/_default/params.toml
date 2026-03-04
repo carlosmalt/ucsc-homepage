@@ -86,14 +86,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1156 High St, MS:SOE3", city = "Santa Cruz", region = "CA", postcode = "95064", country = "United States", country_code = "US"}
+address = {city = "Santa Cruz", region = "CA", postcode = "95060", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.0011", longitude = "-122.0629"}
+coordinates = {latitude = "36.972846", longitude = "-122.02130"}
 
 # Directions for visitors to locate you.
-directions = "Enter Engineering 2 building, take the elevator to the third floor, walk to the north hallway (as you exit the elevators, turn left) and turn right/east and walk almost to the end of the hallway until you see 369 on the left (see also [these directions](https://users.soe.ucsc.edu/~carlosm/UCSC/Directions.html))."
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
